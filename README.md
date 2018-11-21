@@ -1,5 +1,3 @@
-# flare.0x15f.com
-
 API Usage:
 
 `/api/apps/all`
